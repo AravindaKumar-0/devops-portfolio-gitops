@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: devops-portfolio
-          image: imaravinda/devops-portfolio:latest
+          image: imaravinda/devops-portfolio:8
           ports:
             - containerPort: 80
